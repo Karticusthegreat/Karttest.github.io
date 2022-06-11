@@ -1,0 +1,41 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+body h1{
+  color: White;
+}
+
+body h2{
+  color: YELLOW;
+  font-size: 10;
+}
+
+body h3 {
+  font-color: black
+  font-size: 10;
+  margin-bottom: 30px;
+}
+
+
+a {
+  position: relative;
+  top: 240px;
+  left: 100px;
+  margin-bottom: 30px;
+}
+
+
+.btn1 {
+  cursor: pointer;
+}
+#btn2 {
+  cursor: pointer;
+}
+#btn3 {
+  cursor: pointer;
+}
+#paragraph
+{display: none;
+}
